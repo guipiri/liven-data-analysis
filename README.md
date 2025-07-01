@@ -41,11 +41,11 @@ Seu papel é organizar e integrar essas bases, ajustando os dados para garantir 
 
 Para garantir a qualidade da análise, sua tarefa é:
 
-- [ ] Identificar e remover todas as linhas (registros) que não tenham correspondência completa nas quatro bases para a mesma partida, mantendo apenas os registros de partidas que estão presentes nas três tabelas.
+- [x] Identificar e remover todas as linhas (registros) que não tenham correspondência completa nas quatro bases para a mesma partida, mantendo apenas os registros de partidas que estão presentes nas três tabelas.
 
-- [ ] Ajustar os dados para que apenas essas partidas comuns sejam mantidas em cada base, garantindo a consistência entre estatísticas, cartões e gols.
+- [x] Ajustar os dados para que apenas essas partidas comuns sejam mantidas em cada base, garantindo a consistência entre estatísticas, cartões e gols.
 
-- [ ] Escolha a melhor maneira de lidar com tipos e valores NaN, realizar limpezas necessárias e remover informações irrelevantes.
+- [x] Escolha a melhor maneira de lidar com tipos e valores NaN, realizar limpezas necessárias e remover informações irrelevantes.
 
 ### Atividade 2
 
